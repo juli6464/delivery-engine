@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.sqlite
+*.sqlite-journal
+.env
+.env.*
+!.env.example
+# Material privado de la prueba (no se publica en el repo)
+A_prueba_candidato.docx
+AGENT.v1.md
+data/
